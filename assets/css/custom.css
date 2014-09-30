@@ -1,0 +1,13 @@
+.navbar {
+	border-radius: 0px;
+}
+
+.day {
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 45px;
+	margin-bottom: 30px;
+}
+
+.day:last-child {
+	border-bottom: 0px;
+}

@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<schedule>
+	<day date="2014-08-22">
+		<thought>Paul Lucas</thought>
+		<lesson>JSH 1:21-25</lesson>
+		<assignment>JSH 1:27-54</assignment>
+	</day>
+	<day date="2014-08-25">
+		<thought>Mark Willemin</thought>
+		<lesson>JSH 1:27-54</lesson>
+		<assignment>JSH 1:55-65</assignment>
+	</day>
+	<day date="2014-08-26">
+		<thought>-</thought>
+		<lesson>JSH 1:55-65</lesson>
+		<assignment><![CDATA[D&C 3]]></assignment>
+	</day>
+	<day date="2014-08-27">
+		<thought>Jaci Henshaw</thought>
+		<lesson><![CDATA[D&C 3]]></lesson>
+		<assignment><![CDATA[D&C 10]]></assignment>
+	</day>
+	<day date="2014-08-28">
+		<thought>Addison Pike</thought>
+		<lesson>Doctrinal Assessment Exam</lesson>
+		<assignment><![CDATA[D&C 10]]></assignment>
+	</day>
+	<day date="2014-09-02">
+		<thought>--</thought>
+		<lesson><![CDATA[D&C 10]]></lesson>
+		<assignment><![CDATA[D&C 4]]></assignment>
+	</day>
+	<day date="2014-09-03">
+		<thought>Addison Pike</thought>
+		<lesson><![CDATA[D&C 4]]></lesson>
+		<assignment><![CDATA[D&C 5]]></assignment>
+	</day>
+	<day date="2014-09-04">
+		<thought>Bracken Henshaw</thought>
+		<lesson><![CDATA[D&C 5]]></lesson>
+		<assignment><![CDATA[JSH 1:66-67; D&C 6-7]]></assignment>
+	</day>
+	<day date="2014-09-05">
+		<thought>Mason Pike</thought>
+		<lesson><![CDATA[JSH 1:66-67; D&C 6-7]]></lesson>
+		<assignment><![CDATA[D&C 8]]></assignment>
+	</day>
+	<day date="2014-09-15">
+		<thought>--</thought>
+		<lesson><![CDATA[D&C 14-16]]></lesson>
+		<assignment><![CDATA[D&C 17]]></assignment>
+	</day>
+	<day date="2014-09-16">
+		<thought>Mark Willemin</thought>
+		<lesson><![CDATA[D&C 17]]></lesson>
+		<assignment><![CDATA[D&C 18:1-16]]></assignment>
+	</day>
+	<day date="2014-09-17">
+		<thought>Brooke Sudweeks</thought>
+		<lesson><![CDATA[D&C 18:1-16]]></lesson>
+		<assignment><![CDATA[D&C 18:17-47]]></assignment>
+	</day>
+	<day date="2014-09-18">
+		<thought>Jaci Henshaw</thought>
+		<lesson><![CDATA[D&C 18:17-47]]></lesson>
+		<assignment><![CDATA[D&C 19:1-22]]></assignment>
+	</day>
+	<day date="2014-09-19">
+		<thought>Addison Pike</thought>
+		<lesson><![CDATA[D&C 19:1-22]]></lesson>
+		<assignment><![CDATA[D&C 19:23-41]]></assignment>
+	</day>
+	<day date="2014-09-29">
+		<thought>--</thought>
+		<lesson><![CDATA[D&C 20:28-84]]></lesson>
+		<assignment><![CDATA[D&C 21]]></assignment>
+	</day>
+	<day date="2014-09-30">
+		<thought>Bracken Henshaw</thought>
+		<lesson><![CDATA[D&C 21]]></lesson>
+		<assignment><![CDATA[D&C 22-23]]></assignment>
+	</day>
+	<day date="2014-10-01">
+		<thought>Mason Pike</thought>
+		<lesson><![CDATA[D&C 22-23]]></lesson>
+		<assignment><![CDATA[D&C 24, 26]]></assignment>
+	</day>
+	<day date="2014-10-02">
+		<thought>Stephanie Gardner</thought>
+		<lesson><![CDATA[D&C 24, 26]]></lesson>
+		<assignment><![CDATA[D&C 25]]></assignment>
+	</day>
+	<day date="2014-10-03">
+		<thought>Lucy Woolwine</thought>
+		<lesson><![CDATA[D&C 25]]></lesson>
+		<assignment><![CDATA[D&C 27]]></assignment>
+	</day>
+</schedule>
