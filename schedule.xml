@@ -25,4 +25,29 @@
 		<lesson><![CDATA[D&C 25]]></lesson>
 		<assignment><![CDATA[D&C 27]]></assignment>
 	</day>
+        <day date="2014-10-06">
+                <thought>Alayna</thought>
+                <lesson><![CDATA[D&C 27]]></lesson>
+                <assignment><![CDATA[D&C 28]]></assignment>
+        </day>
+        <day date="2014-10-07">
+                <thought>Paul</thought>
+                <lesson><![CDATA[D&C 28]]></lesson>
+                <assignment><![CDATA[D&C 29:1-29]]></assignment>
+        </day>
+        <day date="2014-10-08">
+                <thought>Mark</thought>
+                <lesson><![CDATA[D&C 29:1-29]]></lesson>
+                <assignment><![CDATA[D&C 29:30-50]]></assignment>
+        </day>
+        <day date="2014-10-09">
+                <thought>Brooke</thought>
+                <lesson><![CDATA[D&C 29:30-50]]></lesson>
+                <assignment><![CDATA[D&C 30]]></assignment>
+        </day>
+        <day date="2014-10-10">
+                <thought>Jaci</thought>
+                <lesson><![CDATA[D&C 30]]></lesson>
+                <assignment><![CDATA[D&C 31-32]]></assignment>
+        </day>
 </schedule>
