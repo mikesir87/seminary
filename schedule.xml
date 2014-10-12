@@ -1,53 +1,54 @@
 <?xml version="1.0"?>
 <schedule>
-	<day date="2014-09-29">
-		<thought>--</thought>
-		<lesson><![CDATA[D&C 20:28-84]]></lesson>
-		<assignment><![CDATA[D&C 21]]></assignment>
-	</day>
-	<day date="2014-09-30">
-		<thought>Bracken</thought>
-		<lesson><![CDATA[D&C 21]]></lesson>
-		<assignment><![CDATA[D&C 22-23]]></assignment>
-	</day>
-	<day date="2014-10-01">
-		<thought>Mason</thought>
-		<lesson><![CDATA[D&C 22-23]]></lesson>
-		<assignment><![CDATA[D&C 24, 26]]></assignment>
-	</day>
-	<day date="2014-10-02">
-		<thought>Stephanie</thought>
-		<lesson><![CDATA[D&C 24, 26]]></lesson>
-		<assignment><![CDATA[D&C 25]]></assignment>
-	</day>
-	<day date="2014-10-03">
-		<thought>Lucy</thought>
-		<lesson><![CDATA[D&C 25]]></lesson>
-		<assignment><![CDATA[D&C 27]]></assignment>
-	</day>
-        <day date="2014-10-06">
-                <thought>Alayna</thought>
-                <lesson><![CDATA[D&C 27]]></lesson>
-                <assignment><![CDATA[D&C 28]]></assignment>
-        </day>
-        <day date="2014-10-07">
-                <thought>Paul</thought>
-                <lesson><![CDATA[D&C 28]]></lesson>
-                <assignment><![CDATA[D&C 29:1-29]]></assignment>
-        </day>
-        <day date="2014-10-08">
-                <thought>Mark</thought>
-                <lesson><![CDATA[D&C 29:1-29]]></lesson>
-                <assignment><![CDATA[D&C 29:30-50]]></assignment>
-        </day>
-        <day date="2014-10-09">
-                <thought>Brooke</thought>
-                <lesson><![CDATA[D&C 29:30-50]]></lesson>
-                <assignment><![CDATA[D&C 30]]></assignment>
-        </day>
-        <day date="2014-10-10">
-                <thought>Jaci</thought>
-                <lesson><![CDATA[D&C 30]]></lesson>
-                <assignment><![CDATA[D&C 31-32]]></assignment>
-        </day>
+      <day date="2014-10-06">
+    <thought>Alayna</thought>
+    <lesson><![CDATA[D&C 27]]></lesson>
+    <assignment><![CDATA[D&C 28]]></assignment>
+  </day>
+  <day date="2014-10-07">
+    <thought>Paul</thought>
+    <lesson><![CDATA[D&C 28]]></lesson>
+    <assignment><![CDATA[D&C 29:1-29]]></assignment>
+  </day>
+  <day date="2014-10-08">
+    <thought>Mark</thought>
+    <lesson><![CDATA[D&C 29:1-29]]></lesson>
+    <assignment><![CDATA[D&C 29:30-50]]></assignment>
+  </day>
+  <day date="2014-10-09">
+    <thought>Brooke</thought>
+    <lesson><![CDATA[D&C 29:30-50]]></lesson>
+    <assignment><![CDATA[D&C 30]]></assignment>
+  </day>
+  <day date="2014-10-10">
+    <thought>Jaci</thought>
+    <lesson><![CDATA[D&C 30]]></lesson>
+    <assignment><![CDATA[D&C 31-32]]></assignment>
+  </day>
+  <day date="2014-10-13">
+    <thought>Jaci</thought>
+    <lesson><![CDATA[D&C 31-32]]></lesson>
+    <assignment><![CDATA[D&C 33-34]]></assignment>
+  </day>
+  <day date="2014-10-14">
+    <thought>Addison</thought>
+    <lesson><![CDATA[D&C 33-34]]></lesson>
+    <assignment><![CDATA[D&C 35]]></assignment>
+  </day>
+  <day date="2014-10-15">
+    <thought>Alayna</thought>
+    <lesson><![CDATA[D&C 35]]></lesson>
+    <assignment><![CDATA[D&C 36-37]]></assignment>
+  </day>
+  <day date="2014-10-16">
+    <thought>Stephanie</thought>
+    <lesson><![CDATA[D&C 36-37]]></lesson>
+    <assignment><![CDATA[D&C 38:1-16]]></assignment>
+  </day>
+  <day date="2014-10-17">
+    <thought>--</thought>
+    <lesson>Scripture Mastery Games</lesson>
+    <assignment><![CDATA[D&C 38:1-16]]></assignment>
+  </day>
+  
 </schedule>
