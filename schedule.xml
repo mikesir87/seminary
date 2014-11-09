@@ -1,6 +1,12 @@
 <?xml version="1.0"?>
 <schedule>
-  
+
+  <day date="2014-11-07">
+    <thought />
+    <lesson><![CDATA[45]]></lesson>
+    <assignment><![CDATA[D&C 46]]></assignment>
+  </day>
+
   <day date="2014-11-10">
     <thought>Paul</thought>
     <lesson><![CDATA[D&C 46]]></lesson>
