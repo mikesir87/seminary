@@ -1,54 +1,34 @@
 <?xml version="1.0"?>
 <schedule>
-      <day date="2014-10-06">
-    <thought>Alayna</thought>
-    <lesson><![CDATA[D&C 27]]></lesson>
-    <assignment><![CDATA[D&C 28]]></assignment>
-  </day>
-  <day date="2014-10-07">
+  
+  <day date="2014-11-10">
     <thought>Paul</thought>
-    <lesson><![CDATA[D&C 28]]></lesson>
-    <assignment><![CDATA[D&C 29:1-29]]></assignment>
+    <lesson><![CDATA[D&C 46]]></lesson>
+    <assignment><![CDATA[D&C 47-48]]></assignment>
   </day>
-  <day date="2014-10-08">
-    <thought>Mark</thought>
-    <lesson><![CDATA[D&C 29:1-29]]></lesson>
-    <assignment><![CDATA[D&C 29:30-50]]></assignment>
-  </day>
-  <day date="2014-10-09">
-    <thought>Brooke</thought>
-    <lesson><![CDATA[D&C 29:30-50]]></lesson>
-    <assignment><![CDATA[D&C 30]]></assignment>
-  </day>
-  <day date="2014-10-10">
-    <thought>Jaci</thought>
-    <lesson><![CDATA[D&C 30]]></lesson>
-    <assignment><![CDATA[D&C 31-32]]></assignment>
-  </day>
-  <day date="2014-10-13">
-    <thought>Jaci</thought>
-    <lesson><![CDATA[D&C 31-32]]></lesson>
-    <assignment><![CDATA[D&C 33-34]]></assignment>
-  </day>
-  <day date="2014-10-14">
-    <thought>Addison</thought>
-    <lesson><![CDATA[D&C 33-34]]></lesson>
-    <assignment><![CDATA[D&C 35]]></assignment>
-  </day>
-  <day date="2014-10-15">
+
+  <day date="2014-11-11">
     <thought>Alayna</thought>
-    <lesson><![CDATA[D&C 35]]></lesson>
-    <assignment><![CDATA[D&C 36-37]]></assignment>
-  </day>
-  <day date="2014-10-16">
-    <thought>Stephanie</thought>
-    <lesson><![CDATA[D&C 36-37]]></lesson>
-    <assignment><![CDATA[D&C 38:1-16]]></assignment>
-  </day>
-  <day date="2014-10-17">
-    <thought>--</thought>
-    <lesson>Scripture Mastery Games</lesson>
-    <assignment><![CDATA[D&C 38:1-16]]></assignment>
+    <lesson><![CDATA[D&C 47-48]]></lesson>
+    <assignment><![CDATA[D&C 49]]></assignment>
   </day>
   
+  <day date="2014-11-12">
+    <thought>Stephanie</thought>
+    <lesson><![CDATA[D&C 49]]></lesson>
+    <assignment><![CDATA[D&C 50]]></assignment>
+  </day>
+
+  <day date="2014-11-13">
+    <thought>Bracken</thought>
+    <lesson><![CDATA[D&C 50]]></lesson>
+    <assignment><![CDATA[D&C 51-52]]></assignment>
+  </day>
+
+  <day date="2014-11-14">
+    <thought />
+    <lesson>Scripture Mastery Games</lesson>
+    <assignment><![CDATA[D&C 51-52]]></assignment>
+  </day>
+
 </schedule>
